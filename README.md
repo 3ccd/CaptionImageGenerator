@@ -1,0 +1,2 @@
+# CaptionImageGenerator
+GoogleFormsから出力されたCSVファイルを美術作品展示用のキャプションとして画像生成します。
